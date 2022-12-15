@@ -1,0 +1,17 @@
+{
+    "name" : "Captain",
+    "strength" : 15,
+    "intelligence" : 15,
+    "wisdom" : 13,
+    "dexterity" : 10,
+    "consitution" : 10,
+    "charisma" : 16,
+    "race" : "human",
+    "p_class" : "Warrior",
+    "level" : 5,
+    "hit_point_max" : 25,
+    "movement" : 30,
+    "xp": 4000
+
+    
+}

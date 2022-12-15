@@ -1,0 +1,13 @@
+{ 
+    "name" : "shortsword",
+    "price" : 5,
+    "weight" : 10,
+    "size": 3,
+    "damage" : [2,6]
+    
+
+
+
+
+
+}
